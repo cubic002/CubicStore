@@ -1,7 +1,7 @@
 testing line 1 
 testing line 2 
 testing line 3 
-testing line 3a
+testing line 3a (re-numbered)
 new testing line 1 under branch1
 - line N-1
 - line N-2
