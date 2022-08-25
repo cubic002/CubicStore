@@ -8,4 +8,3 @@ new testing line 1 under branch1
 - line N-3
 new testing line 2 under banch2
 testing line 3b
-new testing line 3 under banch2
